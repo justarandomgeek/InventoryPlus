@@ -1,0 +1,9 @@
+{
+  "name": "InventoryPlus",
+  "version": "1.0.0",
+  "title": "InventoryPlus",
+  "author": "justarandomgeek",
+  "homepage": "",
+  "dependencies": ["base >= 0.12.26"],
+  "description": "Inventory and Quickbar upgrades"
+}
