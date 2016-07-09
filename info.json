@@ -1,6 +1,7 @@
 {
   "name": "InventoryPlus",
   "version": "1.0.0",
+  "factorio_version": "0.13",
   "title": "InventoryPlus",
   "author": "justarandomgeek",
   "homepage": "",
